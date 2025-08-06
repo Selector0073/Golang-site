@@ -11,16 +11,6 @@
         /____  >__||__|  \___  >
              \/              \/ 
                         
-                        
-                        
-                        
-                        
-                        
-
-
-
-
-
 # Golang-site
 Instructions:
 1) Open site.exe to start the local server.
