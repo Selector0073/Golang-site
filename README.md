@@ -1,4 +1,4 @@
 # Golang-site
-Gebrauchsanweisung:
-1) Öffnen Sie site.exe, um den lokalen Server zu starten.
-2) Gehen Sie im Browser zu http://localhost:8080/
+Instructions:
+1) Open site.exe to start the local server.
+2) In your browser, navigate to http://localhost:8080/
